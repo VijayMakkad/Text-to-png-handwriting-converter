@@ -35,6 +35,11 @@ The Java Text to Handwriting/PNG Converter is a versatile application designed t
 
 10. **Cross-Platform Compatibility:**
     - The Java-based design ensures cross-platform compatibility, allowing users to run the application seamlessly on different operating systems.
+   ## Cloning
+      Clone the repository:
+   ```
+   git clone https://github.com/VijayMakkad/RainFall-Prediction-using-ML.git
+   ```
 
 **Technologies Used:**
 
