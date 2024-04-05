@@ -38,7 +38,7 @@ The Java Text to Handwriting/PNG Converter is a versatile application designed t
    ## Cloning
       Clone the repository:
    ```
-   git clone https://github.com/VijayMakkad/RainFall-Prediction-using-ML.git
+   git clone https://github.com/VijayMakkad/Text-to-png-handwriting-converter.git
    ```
 
 **Technologies Used:**
